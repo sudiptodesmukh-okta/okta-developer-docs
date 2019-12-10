@@ -1799,6 +1799,8 @@ redirects:
     to: /docs/guides/implement-oauth-for-okta/save-access-token/
   - from: /docs/guides/oauth-for-okta/scopes/index.html
     to: /docs/guides/implement-oauth-for-okta/scopes/
+  - from: /docs/guides/oauth-for-okta/-/overview/
+    to: /docs/guides/implement-oauth-for-okta/overview/
   - from: /docs/guides/create-token-with-groups-claim/-/add-list-of-groups/index.html
     to: /docs/guides/customize-tokens-returned-from-okta/-/static-whitelist/
   - from: /docs/guides/create-token-with-groups-claim/-/configure-custom-claim/index.html
