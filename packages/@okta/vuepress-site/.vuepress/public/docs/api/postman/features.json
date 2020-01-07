@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "71688024-687e-4291-9289-e612da11497a",
+		"_postman_id": "3e2f4db8-7140-47f1-ae45-34183129dd4b",
 		"name": "Features (Okta API)",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -44,7 +44,7 @@
 					"response": []
 				}
 			],
-			"protocolProfileBehavior": {}
+			"protocolProfileBehavior": []
 		},
 		{
 			"name": "Update Feature",
@@ -217,7 +217,7 @@
 					"response": []
 				}
 			],
-			"protocolProfileBehavior": {}
+			"protocolProfileBehavior": []
 		},
 		{
 			"name": "Get Dependencies",
@@ -260,7 +260,7 @@
 					"response": []
 				}
 			],
-			"protocolProfileBehavior": {}
+			"protocolProfileBehavior": []
 		},
 		{
 			"name": "Get Dependents",
@@ -303,8 +303,8 @@
 					"response": []
 				}
 			],
-			"protocolProfileBehavior": {}
+			"protocolProfileBehavior": []
 		}
 	],
-	"protocolProfileBehavior": {}
+	"protocolProfileBehavior": []
 }
